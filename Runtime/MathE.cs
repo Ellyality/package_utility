@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Elly
+namespace Ellyality
 {
     /// <summary>
     /// Utility for math calculation
